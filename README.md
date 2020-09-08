@@ -1,3 +1,3 @@
-# Databases
+# Database used:
 
 * MySQL
